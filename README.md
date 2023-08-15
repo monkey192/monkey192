@@ -7,7 +7,7 @@
 
 
 ## Skills 
-- Program  
+- Programming language/ framework  
 ![Java](https://img.shields.io/badge/-Java-%339933?style=flat-square&logo=node-dot-js&logoColor=ffffdd)
 ![NodeJs](https://img.shields.io/badge/-Nodejs-%339933?style=flat-square&logo=node-dot-js&logoColor=ffffff)
 ![C#](https://img.shields.io/badge/-CSharp-%339933?style=flat-square&logo=c-sharp&logoColor=ffffff)
@@ -17,7 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![React](https://img.shields.io/badge/-Golang-%23282C34?style=flat-square&logo=golang)
+![Golang](https://img.shields.io/badge/-Golang-%23282C34?style=flat-square&logo=golang)
 
 - Cloud: 
     - aws
