@@ -1,7 +1,8 @@
 ## Hi there 👋
+[<img alt="github" src="https://img.shields.io/badge/github-monkey192-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">]([https://github.com/monkey192](https://github.com/monkey192))
+<img src="https://komarev.com/ghpvc/?username=monkey192" alt="monkey192" />
 
-![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmonkey192&label=visistor&countColor=%23263759)
-[<img alt="github" src="https://img.shields.io/badge/github-monkey192-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="27">]([https://github.com/monkey192](https://github.com/monkey192))
+
 
 ### Working skills
 - Program  
