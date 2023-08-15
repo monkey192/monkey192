@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=monkey192)
-[<img alt="github" src="https://img.shields.io/badge/github-monkey192-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">]([https://github.com/dinhphuc](https://github.com/monkey192))
+![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmonkey192&label=visistor&countColor=%23263759)
+[<img alt="github" src="https://img.shields.io/badge/github-monkey192-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="27">]([https://github.com/monkey192](https://github.com/monkey192))
 
-### Working skill
-- Program
+### Working skills
+- Program  
 ![Java](https://img.shields.io/badge/-Java-%339933?style=flat-square&logo=node-dot-js&logoColor=ffffdd)
 ![NodeJs](https://img.shields.io/badge/-Nodejs-%339933?style=flat-square&logo=node-dot-js&logoColor=ffffff)
 ![C#](https://img.shields.io/badge/-CSharp-%339933?style=flat-square&logo=c-sharp&logoColor=ffffff)
@@ -20,17 +20,13 @@
     - aws
     - azure
 
-### Certification
-
-
+### Certifications </br>
 <a href="https://www.credly.com/badges/89236ed0-e48b-4930-8169-9a172fc368cc/public_url"><img src="https://user-images.githubusercontent.com/109968006/183442708-13f54d23-07f7-47fc-8d8d-86bf91f9eb84.png" align="left" height="60" width="60"></a>
-
 <a href="https://www.credly.com/badges/52bd5aa3-5ffe-4727-a7fb-6a4810b5fb6f/public_url"><img src="https://user-images.githubusercontent.com/109968006/183443023-8ed26f63-b985-49fd-b53c-99dfc50a1f37.png" align="left" height="60" width="60"></a>
-
 <a href="https://www.credly.com/badges/b661c6dd-e4d8-46d5-add9-6db7ebb023c7/public_url"><img src="https://user-images.githubusercontent.com/109968006/183443203-02969766-f723-42e7-8691-d9ce7ea7d4d4.png" align="left" height="60" width="60"></a>
 
-  
-### 𝗦𝘁𝗮𝘁istic
+ </br> </br>
+### 𝗦𝘁𝗮𝘁istic </br>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=monkey192&show_icons=true&theme=dracula)
 
