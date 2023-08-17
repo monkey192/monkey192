@@ -19,9 +19,11 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Golang](https://img.shields.io/badge/-Golang-%23282C34?style=flat-square&logo=golang)
 
-- Cloud: 
-    - aws
-    - azure
+- Cloud:
+    - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+    - ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
+    - ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+    - IaC tools: ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)![CloudFormation](https://img.shields.io/badge/CloudFormation-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white)
 
 ### Certifications </br>
 
@@ -29,6 +31,9 @@
 [![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/100x100/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](https://www.credly.com/badges/afdf8a6a-c8c4-4dcc-9069-07866315f884/public_url)
 [![AWS Certified Developer – Associate](https://images.credly.com/size/100x100/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/52bd5aa3-5ffe-4727-a7fb-6a4810b5fb6f/public_url)
 [![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/100x100/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](https://www.credly.com/badges/89236ed0-e48b-4930-8169-9a172fc368cc/public_url)
+
+- [Udacity AWS Cloud Architect](https://www.udacity.com/course/aws-cloud-architect-nanodegree--nd063)
+- [Udacity Cloud DevOps Engineer](https://www.udacity.com/course/aws-cloud-architect-nanodegree--nd063)
 
 ### 𝗦𝘁𝗮𝘁istic </br>
 
