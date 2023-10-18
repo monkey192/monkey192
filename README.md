@@ -32,8 +32,8 @@
 [![AWS Certified Developer – Associate](https://images.credly.com/size/100x100/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/52bd5aa3-5ffe-4727-a7fb-6a4810b5fb6f/public_url)
 [![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/100x100/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](https://www.credly.com/badges/89236ed0-e48b-4930-8169-9a172fc368cc/public_url)
 
-- [Udacity AWS Cloud Architect](https://www.udacity.com/course/aws-cloud-architect-nanodegree--nd063)
-- [Udacity Cloud DevOps Engineer](https://www.udacity.com/course/aws-cloud-architect-nanodegree--nd063)
+- [Udacity AWS Cloud Architect](https://confirm.udacity.com/e/4767ead6-10ad-11ee-abe0-9719272f03c6)
+- [Udacity Cloud DevOps Engineer](https://confirm.udacity.com/e/642a3b20-194e-11ee-9ae3-5f95018944cb)
 
 ### 𝗦𝘁𝗮𝘁istic </br>
 
