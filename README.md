@@ -29,7 +29,7 @@
 
 <div align="center">
 
-[![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/80x80/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](https://www.credly.com/badges/9d6eed50-9cd7-47b3-975c-fdbd9d4f0eee/public_url)
+[![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/80x80/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](https://www.credly.com/badges/9d6eed50-9cd7-47b3-975c-fdbd9d4f0eee/public_url)
 [![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/80x80/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)]( https://www.credly.com/badges/9e10c68e-2074-467d-b916-b36936c20eb2/public_url)
 [![AWS Certified Security – Specialty](https://images.credly.com/size/80x80/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png)]( https://www.credly.com/badges/9c485e5f-09d6-457a-9f09-b94f06c0b9aa/public_url)
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/b661c6dd-e4d8-46d5-add9-6db7ebb023c7/public_url)
